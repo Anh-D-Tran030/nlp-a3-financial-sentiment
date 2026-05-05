@@ -1,0 +1,2 @@
+model,accuracy,f1_macro,f1_positive,f1_negative,f1_neutral
+FinBERT (fine-tuned),,,,,
